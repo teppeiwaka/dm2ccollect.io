@@ -1,0 +1,56 @@
+/* ここからCSSコード */
+
+/* bodyタグ内の全要素に適用するスタイル */
+body {
+  font-family: Arial, sans-serif; /* フォントの種類 */
+  background-color: #f0f0f0; /* 背景色 */
+}
+
+/* .containerクラスの要素に適用するスタイル */
+.container {
+  max-width: 800px; /* 最大幅 */
+  margin: 0 auto; /* 中央寄せ */
+  padding: 20px; /* 内側の余白 */
+}
+
+/* h1要素に適用するスタイル */
+h1 {
+  color: #333333; /* 文字色 */
+  text-align: center; /* 中央揃え */
+}
+
+/* h2要素に適用するスタイル */
+h2 {
+  color: #666666; /* 文字色 */
+  margin-top: 40px; /* 上側の余白 */
+}
+
+/* p要素に適用するスタイル */
+p {
+  color: #333333; /* 文字色 */
+  line-height: 1.5; /* 行間 */
+}
+
+/* ul要素に適用するスタイル */
+ul {
+  list-style: none; /* リストの記号をなしにする */
+  padding: 0; /* 外側の余白をなしにする */
+}
+
+/* li要素に適用するスタイル */
+li {
+  margin: 10px 0; /* 上下の余白 */
+}
+
+/* a要素に適用するスタイル */
+a {
+  color: #333333; /* 文字色 */
+  text-decoration: none; /* 下線をなしにする */
+}
+
+/* a要素にマウスを乗せたときに適用するスタイル */
+a:hover {
+  text-decoration: underline; /* 下線をつける */
+}
+
+/* ここまでCSSコード */
